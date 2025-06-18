@@ -28,5 +28,5 @@ Repository documents hands-on learning through OverTheWire Bandit wargame which 
 ## Contact
 
 - 📧 nithashababuraj2000@gmail.com  
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/nithasha-babu-raj-477a351b9/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nithasha-babu-raj-477a351b9/)  
 - 💻 [GitHub](https://github.com/nithashab2000)
