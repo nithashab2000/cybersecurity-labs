@@ -1,32 +1,37 @@
 # cybersecurity-labs
-Repository documents hands-on learning through OverTheWire Bandit wargame which focuses on Linux command-line usage.
+This repository documents hands-on learning through the OverTheWire Bandit wargame, focused on Linux command-line usage and fundamental security concepts.
 
-## OverTheWire – Bandit Wargame (Levels 0–10)
+---
 
-- Practiced Linux commands such as `ls`, `cat`, `cd`, `file`, `find`, and `grep`
-- Worked with hidden files, unusual filenames, and special characters
-- Explored basic file permissions, and text encoding/decoding (e.g. Base64)
-- Gained practical experience in navigating and analyzing file systems 
+## OverTheWire – Bandit Wargame (Levels 0–12)
+
+- Practiced Linux commands such as `ls`, `cat`, `cd`, `file`, `find`, `grep`, `base64`, `xxd`, `cut`, `strings`, `gzip`, and `bzip2`
+- Worked with hidden files, unusual filenames, symbolic links, and hexdump-encoded files
+- Explored file permissions, redirection, and decoding layers (e.g., Base64 → gzip → bzip2)
+- Used shell tools to inspect, decode, and reconstruct binary and encoded content
+- Gained practical experience in navigating and analyzing file systems securely
 
 ---
 
 ## Skills Acquired
 
 - Linux file system navigation  
-- Command-line security tasks  
-- Basic encoding and decoding techniques  
+- Command-line based security tasks  
+- File decoding and multi-step extraction techniques  
+- Working with file permissions, symbolic links, and encodings  
+- Hexdump reversal and binary file reconstruction  
 - Identifying and reading hidden or protected files  
 
 ---
 
 ## In Progress
 
-- Continuing Bandit Levels 11+ to deepen CLI and security fundamentals
+- Continuing Bandit Levels 13+ to build deeper understanding of CLI security, scripting, and advanced permission handling
 
 ---
 
 ## Contact
 
-- 📧 nithashababuraj2000@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nithasha-babu-raj-477a351b9/)  
-- 💻 [GitHub](https://github.com/nithashab2000)
+- nithashababuraj2000@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/nithasha-babu-raj-477a351b9/)  
+- [GitHub](https://github.com/nithashab2000)
