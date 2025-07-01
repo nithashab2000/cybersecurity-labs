@@ -13,6 +13,7 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Used a private SSH key to authenticate without a password  
 - Connected to the next level via `ssh` using the `-i` option for key-based authentication  
 - Understood the use of `localhost` to connect to services running on the same machine
+- Retrieved password data through socket communication over the specified port using netcat(nc)command 
 ---
 
 ## Skills Acquired
@@ -24,12 +25,12 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Hexdump reversal and binary file reconstruction  
 - Identifying and reading hidden or protected files
 - Used SSH key-based authentication
-
+- Practiced basic TCP communication using 'netcat'
 ---
 
 ## In Progress
 
-- Continuing Bandit Levels 14+ to build deeper understanding of CLI security, scripting, and advanced permission handling
+- Continuing Bandit Levels 15+ to build deeper understanding of CLI security, scripting, and advanced permission handling
 
 ---
 
