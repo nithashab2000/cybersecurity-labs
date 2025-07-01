@@ -10,7 +10,9 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Explored file permissions, redirection, and decoding layers (e.g., Base64 → gzip → bzip2)
 - Used shell tools to inspect, decode, and reconstruct binary and encoded content
 - Gained practical experience in navigating and analyzing file systems securely
-
+- Used a private SSH key to authenticate without a password  
+- Connected to the next level via `ssh` using the `-i` option for key-based authentication  
+- Understood the use of `localhost` to connect to services running on the same machine
 ---
 
 ## Skills Acquired
@@ -20,13 +22,14 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - File decoding and multi-step extraction techniques  
 - Working with file permissions, symbolic links, and encodings  
 - Hexdump reversal and binary file reconstruction  
-- Identifying and reading hidden or protected files  
+- Identifying and reading hidden or protected files
+- Used SSH key-based authentication
 
 ---
 
 ## In Progress
 
-- Continuing Bandit Levels 13+ to build deeper understanding of CLI security, scripting, and advanced permission handling
+- Continuing Bandit Levels 14+ to build deeper understanding of CLI security, scripting, and advanced permission handling
 
 ---
 
