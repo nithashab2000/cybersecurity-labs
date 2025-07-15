@@ -3,7 +3,7 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 
 ---
 
-## OverTheWire – Bandit Wargame (Levels 0–15)
+## OverTheWire – Bandit Wargame (Levels 0–16)
 
 - Practiced Linux commands such as `ls`, `cat`, `cd`, `file`, `find`, `grep`, `base64`, `xxd`, `cut`, `strings`, `gzip`, and `bzip2`
 - Worked with hidden files, unusual filenames, symbolic links, and hexdump-encoded files
@@ -15,6 +15,7 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Understood the use of `localhost` to connect to services running on the same machine
 - Retrieved password data through socket communication over the specified port using netcat(nc)command
 - Used `openssl s_client` to securely transmit the password over a TLS-encrypted connection to a specific port
+- Retrieved a SSH private key obtained via TLS-encrypted netcat communication to authenticate to the next level
 ---
 
 ## Skills Acquired
@@ -28,11 +29,12 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Used SSH key-based authentication
 - Practiced basic TCP communication using 'netcat'
 - Performed SSL/TLS-encrypted data transmission with `openssl`
+- Performed secure port scanning, SSL communication, and private key-based SSH authentication
 ---
 
 ## In Progress
 
-- Continuing Bandit Levels 16+ to build deeper understanding of CLI security, scripting, and advanced permission handling
+- Continuing Bandit Levels 17+ to build deeper understanding of CLI security, scripting, and advanced permission handling
 
 ---
 
