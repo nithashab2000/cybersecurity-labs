@@ -3,7 +3,7 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 
 ---
 
-## OverTheWire – Bandit Wargame (Levels 0–18)
+## OverTheWire – Bandit Wargame (Levels 0–19)
 
 - Practiced Linux commands such as `ls`, `cat`, `cd`, `file`, `find`, `grep`, `base64`, `xxd`, `cut`, `strings`, `gzip`, and `bzip2`
 - Worked with hidden files, unusual filenames, symbolic links, and hexdump-encoded files
@@ -18,6 +18,7 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Retrieved a SSH private key obtained via TLS-encrypted netcat communication to authenticate to the next level
 - Compared file differences using 'diff' command to identify the updated password to the next level from the similiar content files
 - Bypassed forced logout by remotely executing a command via SSH to read the password without triggering '.bashrc'
+- Used a SUID binary to safely execute a privileged command and retrieve the next level's password
 ---
 
 ## Skills Acquired
@@ -34,11 +35,12 @@ This repository documents hands-on learning through the OverTheWire Bandit warga
 - Performed secure port scanning, SSL communication, and private key-based SSH authentication
 - Used the 'diff' command to efficiently compare the similiar files and extract the particular change
 - Remotely executing shell commands via SSH to bypass login-shell restrictions
+- Executed SUID binaries to temporarily gain elevated permissions for secure file access
 ---
 
 ## In Progress
 
-- Continuing Bandit Levels 19+ to build deeper understanding of CLI security, scripting, and advanced permission handling
+- Continuing Bandit Levels 20+ to build deeper understanding of CLI security, scripting, and advanced permission handling
 
 ---
 
